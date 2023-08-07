@@ -5,11 +5,35 @@ h1{
     text-align: center;
     color: orange;
 }
-h2 {
+h2{
     text-align: center;
     color: orange;
 }
+h3{
+    text-align: center;
+    color: orange;
+} 
 h4{
     text-align: center;
     color: orange;
+}
+p {
+    color: orange
+}
+form{
+    text-align: center;
+
+}
+ul{
+    color: orange;
+}
+table {
+    border-collapse: collapse;
+    width: 70%;
+    color: orange;   
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 2px solid orange;
 }
